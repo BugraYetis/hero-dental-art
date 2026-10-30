@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hero Dental Art
+# 🦷 Hero Dental Art
 
 **Kurumsal Site · Diş Protez Laboratuvarı**
 
